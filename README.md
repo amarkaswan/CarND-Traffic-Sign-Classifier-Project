@@ -199,6 +199,7 @@ In the following sections, I will briefly explain each of the above-stated steps
   </tr>
  </table>
  <p></p>
+ 
 * Minimum number of images for a traffic sign in the original dataset = 270
 * Maximum number of images for a traffic sign  in the original dataset = 3000
 * Shape of an image in the original dataset = (32, 32, 3)
