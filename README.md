@@ -499,17 +499,18 @@ It can observed that the model was able to predict nine out of ten images correc
 <p></p>
 Next, I provide the top five softmax probabilities of these images with their corresponding labels predicted by the model. 
 
-* Softmax probabilies of image with Label 36 are [ 100.    0.    0.    0.    0.] and their labels are [36 38 32 41 13].
-* Softmax probabilies of image with Label 15 are [ 99.91   0.06   0.02   0.01   0.  ] and their labels are [34 35 14 38 30].
-* Softmax probabilies of image with Label 34 are [ 100.    0.    0.    0.    0.] and their labels are [34 35 14 38 30].
-* Softmax probabilies of image with Label 26 are [ 100.    0.    0.    0.    0.] and their labels are [34 35 14 38 30].
-* Softmax probabilies of image with Label 18 are [ 100.    0.    0.    0.    0.] and their labels are [18 26 25 24 22].
-* Softmax probabilies of image with Label 12 are [ 100.    0.    0.    0.    0.] and their labels are [12 13  7 40 38].
-* Softmax probabilies of image with Label 16 are [ 80.26  16.49   3.25   0.     0.  ]and their labels are [ 7  5 16 42 10].
-* Softmax probabilies of image with Label 14 are [ 91.17   5.34   2.51   0.6    0.16] and their labels are [14  2 38 25 21].
-* Softmax probabilies of image with Label 17 are [ 58.02  41.65   0.31   0.01   0.01] and their labels are [17  9 34 41 13].
-* Softmax probabilies of image with Label 13 are [ 100.    0.    0.    0.    0.] and their labels are [13 12  9 35 15].
+* Softmax probabilies of image with class label 34 are [ 100.    0.    0.    0.    0.] and their class labels are [34 38 17 30 12].
+* Softmax probabilies of image with class label 17 are [ 92.71   4.15   3.09   0.03   0.01] and their class labels are [34 17  9 35 22].
+* Softmax probabilies of image with class label 13 are [ 100.    0.    0.    0.    0.] and their class labels are [13 35 34 22 12].
+* Softmax probabilies of image with class label 18 are [ 100.    0.    0.    0.    0.] and their class labels are [18 27 26 11 25].
+* Softmax probabilies of image with class label 12 are [ 100.    0.    0.    0.    0.] and their class labels are [12 13 15 32 41].
+* Softmax probabilies of image with class label 36 are [ 100.    0.    0.    0.    0.] and their class labels are [36  6 38 41 32].
+* Softmax probabilies of image with class label 14 are [ 100.    0.    0.    0.    0.] and their class labels are [14  4 25 32 38].
+* Softmax probabilies of image with class label 16 are [ 99.97   0.03   0.     0.     0.  ] and their class labels are [16 10  9 42 19].
+* Softmax probabilies of image with class label 26 are [ 100.    0.    0.    0.    0.] and their class labels are [26 24 22 25 37].
+* Softmax probabilies of image with class label 15  are [ 84.59   4.93   3.69   2.74   2.73] and class labels are [15 12 32  8 14].
 
+I also display the bar chart of the above mentioned top five softmax probabilities against their class labels below.
 ## (Optional) Visualizing the Neural Network 
 In this section, I display the visualization of feature maps of first and second convolution layers for newly downloaded images as follows.
 
