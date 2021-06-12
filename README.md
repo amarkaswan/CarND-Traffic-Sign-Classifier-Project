@@ -802,6 +802,115 @@ In this section, I display the visualization of feature maps of first and second
  </center>
  </table>
  <p></p>
+ 
+ <p></p>
+<table>
+ <center>
+  <tr>
+    <td>Top Five Softmax Probabilities of Image with Class Label 34</td>
+    <td>Top Five Softmax Probabilities of Image with Class Label 17</td>
+    <td>Top Five Softmax Probabilities of Image with Class Label 13</td>
+    <td>Top Five Softmax Probabilities of Image with Class Label 18</td>
+  </tr>
+  <tr>
+    <td> <img src="./test_images/softmax_label_34.png" width="320" height="160"> </td>
+    <td> <img src="./test_images/softmax_label_17.png" width="320" height="160"> </td>
+    <td> <img src="./test_images/softmax_label_13.png" width="320" height="160"> </td>
+    <td> <img src="./test_images/softmax_label_18.png" width="320" height="160"> </td>
+  </tr>
+    <tr>
+    <td>Top Five Softmax Probabilities of Image with Class Label 12</td>
+    <td>Top Five Softmax Probabilities of Image with Class Label 36</td>
+    <td>Top Five Softmax Probabilities of Image with Class Label 14</td>
+    <td>Top Five Softmax Probabilities of Image with Class Label 16</td>
+  </tr>
+  <tr>
+    <td> <img src="./test_images/softmax_label_12.png" width="320" height="160"> </td>
+    <td> <img src="./test_images/softmax_label_36.png" width="320" height="160"> </td>
+    <td> <img src="./test_images/softmax_label_14.png" width="320" height="160"> </td>
+    <td> <img src="./test_images/softmax_label_16.png" width="320" height="160"> </td>
+  </tr>
+    <tr>
+    <td>Top Five Softmax Probabilities of Image with Class Label 26</td>
+    <td>Top Five Softmax Probabilities of Image with Class Label 15</td>
+  </tr>
+  <tr>
+    <td> <img src="./test_images/softmax_label_26.png" width="320" height="160"> </td>
+    <td> <img src="./test_images/softmax_label_15.png" width="320" height="160"> </td>
+  </tr>
+ </center>
+ </table>
+ <p></p>
+
+## (Optional) Visualizing the Neural Network 
+In this section, I display the visualization of feature maps of first and second convolution layers for newly downloaded images as follows.
+
+<p></p>
+<table>
+ <center>
+  <tr>
+    <td>Feature Maps of Second Convolution Layer for Image with Label 34</td>
+  </tr>
+  <tr>
+     <td> <img src="./test_images/fm_conv2_label_34.png" width="640" height="120"> </td>
+  </tr>
+   <tr>
+    <td>Feature Maps of Second Convolution Layer for Image with Label 17</td>
+  </tr>
+  <tr>
+     <td> <img src="./test_images/fm_conv2_label_17.png" width="640" height="120"> </td>
+  </tr>
+   <tr>
+    <td>Feature Maps of Second Convolution Layer for Image with Label 13</td>
+  </tr>
+  <tr>
+     <td> <img src="./test_images/fm_conv2_label_13.png" width="640" height="120"> </td>
+  </tr>
+   <tr>
+    <td>Feature Maps of Second Convolution Layer for Image with Label 18</td>
+  </tr>
+  <tr>
+     <td> <img src="./test_images/fm_conv2_label_18.png" width="640" height="120"> </td>
+  </tr>
+   <tr>
+    <td>Feature Maps of Second Convolution Layer for Image with Label 12</td>
+  </tr>
+  <tr>
+     <td> <img src="./test_images/fm_conv2_label_12.png" width="640" height="120"> </td>
+  </tr>
+   <tr>
+    <td>Feature Maps of Second Convolution Layer for Image with Label 36</td>
+  </tr>
+  <tr>
+     <td> <img src="./test_images/fm_conv2_label_36.png" width="640" height="120"> </td>
+  </tr>
+   <tr>
+    <td>Feature Maps of Second Convolution Layer for Image with Label 14</td>
+  </tr>
+  <tr>
+     <td> <img src="./test_images/fm_conv2_label_14.png" width="640" height="120"> </td>
+  </tr>
+   <tr>
+    <td>Feature Maps of Second Convolution Layer for Image with Label 16</td>
+  </tr>
+  <tr>
+     <td> <img src="./test_images/fm_conv2_label_16.png" width="640" height="120"> </td>
+  </tr>
+   <tr>
+    <td>Feature Maps of Second Convolution Layer for Image with Label 26</td>
+  </tr>
+  <tr>
+     <td> <img src="./test_images/fm_conv2_label_26.png" width="640" height="120"> </td>
+  </tr>
+   <tr>
+   <td>Feature Maps of Second Convolution Layer for Image with Label 15</td>
+  </tr>
+  <tr>
+     <td> <img src="./test_images/fm_conv2_label_15.png" width="640" height="120"> </td>
+  </tr>
+ </center>
+ </table>
+ <p></p>
 
 The feature maps of the first convolution layer mostly react with high activation to the sign's boundary outline. However, I could not understand the feature maps of the second convolutional layer. 
 
