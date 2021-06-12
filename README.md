@@ -522,11 +522,11 @@ I also display the bar charts of the above mentioned top five softmax probabilit
     <td>Original New Images Downloaded from the Internat</td>
   </tr>
   <tr>
-    <td> <img src="./test_images/softmax_label_34.png" width="120" height="120"> </td>
-    <td> <img src="./test_images/softmax_label_17.png" width="120" height="120"> </td>
-    <td> <img src="./test_images/softmax_label_13.png" width="120" height="120"> </td>
-    <td> <img src="./test_images/softmax_label_18.png" width="120" height="120"> </td>
-    <td> <img src="./test_images/softmax_label_12.png" width="120" height="120"> </td>
+    <td> <img src="./test_images/softmax_label_34.png" width="240" height="180"> </td>
+    <td> <img src="./test_images/softmax_label_34.png" width="240" height="180"> </td>
+    <td> <img src="./test_images/softmax_label_34.png" width="240" height="180"> </td>
+    <td> <img src="./test_images/softmax_label_34.png" width="240" height="180"> </td>
+    <td> <img src="./test_images/softmax_label_34.png" width="240" height="180"> </td>
   </tr>
  </center>
  </table>
