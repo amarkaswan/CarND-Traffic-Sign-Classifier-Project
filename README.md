@@ -510,7 +510,28 @@ Next, I provide the top five softmax probabilities of these images with their co
 * Softmax probabilies of image with class label 26 are [ 100.    0.    0.    0.    0.] and their class labels are [26 24 22 25 37].
 * Softmax probabilies of image with class label 15  are [ 84.59   4.93   3.69   2.74   2.73] and class labels are [15 12 32  8 14].
 
-I also display the bar chart of the above mentioned top five softmax probabilities against their class labels below.
+I also display the bar charts of the above mentioned top five softmax probabilities against their class labels below.
+<p></p>
+<table>
+ <center>
+  <tr>
+    <td>Original New Images Downloaded from the Internat</td>
+    <td>Original New Images Downloaded from the Internat</td>
+    <td>Original New Images Downloaded from the Internat</td>
+    <td>Original New Images Downloaded from the Internat</td>
+    <td>Original New Images Downloaded from the Internat</td>
+  </tr>
+  <tr>
+    <td> <img src="./test_images/softmax_label_34.png" width="120" height="120"> </td>
+    <td> <img src="./test_images/softmax_label_17.png" width="120" height="120"> </td>
+    <td> <img src="./test_images/softmax_label_13.png" width="120" height="120"> </td>
+    <td> <img src="./test_images/softmax_label_18.png" width="120" height="120"> </td>
+    <td> <img src="./test_images/softmax_label_12.png" width="120" height="120"> </td>
+  </tr>
+ </center>
+ </table>
+ <p></p>
+
 ## (Optional) Visualizing the Neural Network 
 In this section, I display the visualization of feature maps of first and second convolution layers for newly downloaded images as follows.
 
