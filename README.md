@@ -743,7 +743,7 @@ In this section, I display the visualization of feature maps of first and second
     <td>Feature Maps of First Convolution Layer for Image with Label 34</td>
   </tr>
   <tr>
-     <td> <img src="./test_images/fm_conv1_label_34.png" width="100" height="120"> </td>
+     <td> <img src="./test_images/fm_conv1_label_34.png" width="1000" height="120"> </td>
   </tr>
  </center>
  </table>
