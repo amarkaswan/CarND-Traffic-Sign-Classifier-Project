@@ -18,6 +18,51 @@ In the following sections, I will briefly explain each of the above-stated steps
 ### Step 1: Original and Augmented Datasets with their Summary
 
 <strong>German Traffic Sign Dataset</strong>: It is a publicly available large multi-class traffic sign benchmark dataset. Udacity has provided this data set in the project workspace and divided it into training, validation, and testing sets. The summary this dataset is as follows. 
+<p></p>
+<table>
+ <center>
+  <tr>
+   <td>Sign Name</td>
+   <td>Class Label</td>
+  </tr>
+  <tr>
+   <td>Speed limit (20km/h)</td>
+   <td>0</td>
+  </tr>
+   <tr>
+   <td>Speed limit (30km/h)</td>
+   <td>1</td>
+  </tr>
+  <tr>
+   <td>Speed limit (50km/h)</td>
+   <td>2</td>
+  </tr>
+   <tr>
+   <td>Speed limit (60km/h)</td>
+   <td>3</td>
+  </tr>
+  <tr>
+   <td>Speed limit (70km/h)</td>
+   <td>4</td>
+  </tr>
+   <tr>
+   <td>Speed limit (80km/h)</td>
+   <td>5</td>
+  </tr>
+  <tr>
+   <td>End of speed limit (80km/h)/td>
+   <td>6</td>
+  </tr>
+   <tr>
+   <td>Speed limit (100km/h)</td>
+   <td>7</td>
+  </tr>
+    <tr>
+   <td>Speed limit (120km/h)</td>
+   <td>8</td>
+  </tr>
+ </table>
+ <p></p>
 * Minimum number of images for a traffic sign in the original dataset = 270
 * Maximum number of images for a traffic sign  in the original dataset = 3000
 * Shape of an image in the original dataset = (32, 32, 3)
