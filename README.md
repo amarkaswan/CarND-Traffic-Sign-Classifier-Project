@@ -50,7 +50,7 @@ In the following sections, I will briefly explain each of the above-stated steps
    <td>5</td>
   </tr>
   <tr>
-   <td>End of speed limit (80km/h)/td>
+   <td>End of speed limit (80km/h)</td>
    <td>6</td>
   </tr>
    <tr>
@@ -60,6 +60,142 @@ In the following sections, I will briefly explain each of the above-stated steps
     <tr>
    <td>Speed limit (120km/h)</td>
    <td>8</td>
+  </tr>
+   <tr>
+   <td>No passing</td>
+   <td>9</td>
+  </tr>
+   <tr>
+   <td>No passing for vehicles over 3.5 metric tons</td>
+   <td>10</td>
+  </tr>
+   <tr>
+   <td>Right-of-way at the next intersection</td>
+   <td>11</td>
+  </tr>
+   <tr>
+   <td>Priority road</td>
+   <td>12</td>
+  </tr>
+   <tr>
+   <td>Yield</td>
+   <td>13</td>
+  </tr>
+   <tr>
+   <td>Stop</td>
+   <td>14</td>
+  </tr>
+   <tr>
+   <td>No vehicles</td>
+   <td>15</td>
+  </tr>
+   <tr>
+   <td>Vehicles over 3.5 metric tons prohibited</td>
+   <td>16</td>
+  </tr>
+   <tr>
+   <td>No entry</td>
+   <td>17</td>
+  </tr>
+   <tr>
+   <td>General caution</td>
+   <td>18</td>
+  </tr>
+   <tr>
+   <td>Dangerous curve to the left</td>
+   <td>19</td>
+  </tr>
+   <tr>
+   <td>Dangerous curve to the right</td>
+   <td>20</td>
+  </tr>
+   <tr>
+   <td>Double curve</td>
+   <td>21</td>
+  </tr>
+   <tr>
+   <td>Bumpy road</td>
+   <td>22</td>
+  </tr>
+   <tr>
+   <td>Slippery road</td>
+   <td>23</td>
+  </tr>
+   <tr>
+   <td>Road narrows on the right</td>
+   <td>24</td>
+  </tr>
+   <tr>
+   <td>Road work</td>
+   <td>25</td>
+  </tr>
+   <tr>
+   <td>Traffic signals</td>
+   <td>26</td>
+  </tr>
+   <tr>
+   <td>Pedestrians</td>
+   <td>27</td>
+  </tr>
+   <tr>
+   <td>Children crossing</td>
+   <td>28</td>
+  </tr>
+   <tr>
+   <td>Bicycles crossing</td>
+   <td>29</td>
+  </tr>
+   <tr>
+   <td>Beware of ice/snow</td>
+   <td>30</td>
+  </tr>
+   <tr>
+   <td>Wild animals crossing</td>
+   <td>31</td>
+  </tr>
+   <tr>
+   <td>End of all speed and passing limits</td>
+   <td>32</td>
+  </tr>
+   <tr>
+   <td>Turn right ahead</td>
+   <td>33</td>
+  </tr>
+   <tr>
+   <td>Turn left ahead</td>
+   <td>34</td>
+  </tr>
+   <tr>
+   <td>Ahead only</td>
+   <td>35</td>
+  </tr>
+   <tr>
+   <td>Go straight or right</td>
+   <td>36</td>
+  </tr>
+   <tr>
+   <td>Go straight or left</td>
+   <td>37</td>
+  </tr>
+   <tr>
+   <td>Keep right</td>
+   <td>38</td>
+  </tr>
+   <tr>
+   <td>Keep left</td>
+   <td>39</td>
+  </tr>
+   <tr>
+   <td>Roundabout mandatory</td>
+   <td>40</td>
+  </tr>
+   <tr>
+   <td>End of no passing</td>
+   <td>41</td>
+  </tr>
+   <tr>
+   <td>End of no passing by vehicles over 3.5 metric tons</td>
+   <td>42</td>
   </tr>
  </table>
  <p></p>
