@@ -736,6 +736,18 @@ I also display the bar charts of the above mentioned top five softmax probabilit
 ## (Optional) Visualizing the Neural Network 
 In this section, I display the visualization of feature maps of first and second convolution layers for newly downloaded images as follows.
 
+<p></p>
+<table>
+ <center>
+  <tr>
+    <td>Feature Maps of First Convolution Layer for Image with Label 34</td>
+  </tr>
+  <tr>
+     <td> <img src="./test_images/fm_conv1_label_34.png" width="100" height="120"> </td>
+  </tr>
+ </center>
+ </table>
+ <p></p>
 
 The feature maps of the first convolution layer mostly react with high activation to the sign's boundary outline. However, I could not understand the feature maps of the second convolutional layer. 
 
