@@ -745,6 +745,60 @@ In this section, I display the visualization of feature maps of first and second
   <tr>
      <td> <img src="./test_images/fm_conv1_label_34.png" width="640" height="120"> </td>
   </tr>
+   <tr>
+    <td>Feature Maps of First Convolution Layer for Image with Label 17</td>
+  </tr>
+  <tr>
+     <td> <img src="./test_images/fm_conv1_label_17.png" width="640" height="120"> </td>
+  </tr>
+   <tr>
+    <td>Feature Maps of First Convolution Layer for Image with Label 13</td>
+  </tr>
+  <tr>
+     <td> <img src="./test_images/fm_conv1_label_13.png" width="640" height="120"> </td>
+  </tr>
+   <tr>
+    <td>Feature Maps of First Convolution Layer for Image with Label 18</td>
+  </tr>
+  <tr>
+     <td> <img src="./test_images/fm_conv1_label_18.png" width="640" height="120"> </td>
+  </tr>
+   <tr>
+    <td>Feature Maps of First Convolution Layer for Image with Label 12</td>
+  </tr>
+  <tr>
+     <td> <img src="./test_images/fm_conv1_label_12.png" width="640" height="120"> </td>
+  </tr>
+   <tr>
+    <td>Feature Maps of First Convolution Layer for Image with Label 36</td>
+  </tr>
+  <tr>
+     <td> <img src="./test_images/fm_conv1_label_36.png" width="640" height="120"> </td>
+  </tr>
+   <tr>
+    <td>Feature Maps of First Convolution Layer for Image with Label 14</td>
+  </tr>
+  <tr>
+     <td> <img src="./test_images/fm_conv1_label_14.png" width="640" height="120"> </td>
+  </tr>
+   <tr>
+    <td>Feature Maps of First Convolution Layer for Image with Label 16</td>
+  </tr>
+  <tr>
+     <td> <img src="./test_images/fm_conv1_label_16.png" width="640" height="120"> </td>
+  </tr>
+   <tr>
+    <td>Feature Maps of First Convolution Layer for Image with Label 26</td>
+  </tr>
+  <tr>
+     <td> <img src="./test_images/fm_conv1_label_26.png" width="640" height="120"> </td>
+  </tr>
+   <tr>
+   <td>Feature Maps of First Convolution Layer for Image with Label 15</td>
+  </tr>
+  <tr>
+     <td> <img src="./test_images/fm_conv1_label_15.png" width="640" height="120"> </td>
+  </tr>
  </center>
  </table>
  <p></p>
