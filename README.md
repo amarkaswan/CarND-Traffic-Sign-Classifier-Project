@@ -242,10 +242,10 @@ In the following sections, I will briefly explain each of the above-stated steps
     <td>#Testing Images = 25800</td>
   </tr>
   <tr>
-     <td> <img src="./summary/Summary_New_Dataset.png" width="240" height="180"> </td>
-     <td> <img src="./summary/Summary_New_Training_Dataset.png" width="240" height="180"> </td>
-     <td> <img src="./summary/Summary_New_Validation_Dataset.png" width="240" height="180"> </td>
-     <td> <img src="./summary/Summary_New_Testing_Dataset.png" width="240" height="180"> </td>
+     <td> <img src="./summary/Summary_New_Dataset.png" width="200" height="150"> </td>
+     <td> <img src="./summary/Summary_New_Training_Dataset.png" width="200" height="150"> </td>
+     <td> <img src="./summary/Summary_New_Validation_Dataset.png" width="200" height="150"> </td>
+     <td> <img src="./summary/Summary_New_Testing_Dataset.png" width="200" height="150"> </td>
   </tr>
  </center>
  </table>
