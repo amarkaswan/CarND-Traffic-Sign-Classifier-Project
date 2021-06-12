@@ -633,37 +633,9 @@ The following tables shows the actual labels and predicted labels of the newly d
     <td>Actual Label</td>
     <td>Predicted Label</td>
   </tr>
- <tr>
-    <td>Go straight or right (label 36)</td>
-    <td>Go straight or right</td>
-  </tr>
-  <tr>
-    <td>No vehicles (label 15)</td>
-    <td>No vehicles</td>
-  </tr>
-  <tr>
+   <tr>
     <td>Turn left ahead (label 34)</td>
     <td>Turn left ahead</td>
-  </tr>
-  <tr>
-    <td>Traffic signals, i.e., label 26</td>
-    <td>Traffic signals</td>
-  </tr>
-  <tr>
-    <td>General caution (label 18)</td>
-    <td>General caution</td>
-  </tr>
-  <tr>
-    <td>Priority road (label 12)</td>
-     <td>Priority road</td>
-  </tr>
-  <tr>
-    <td>Vehicles over 3.5 metric tons prohibited (label 16)</td>
-    <td>Speed limit (100km/h) (label 7)</td>
-  </tr>
-  <tr>
-    <td>Stop, (label 14)</td>
-    <td>Stop</td>
   </tr>
   <tr>
     <td>No entry (label 17)</td>
@@ -673,6 +645,34 @@ The following tables shows the actual labels and predicted labels of the newly d
     <td>Yield (label 13)</td>
     <td>Yield</td>
   </tr>
+   <tr>
+    <td>General caution (label 18)</td>
+    <td>General caution</td>
+  </tr>
+   <tr>
+    <td>Priority road (label 12)</td>
+     <td>Priority road</td>
+  </tr>
+   <tr>
+    <td>Go straight or right (label 36)</td>
+    <td>Go straight or right</td>
+  </tr>
+   <tr>
+    <td>Stop, (label 14)</td>
+    <td>Stop</td>
+  </tr>
+   <tr>
+    <td>Vehicles over 3.5 metric tons prohibited (label 16)</td>
+    <td>Speed limit (100km/h) (label 7)</td>
+  </tr>
+   <tr>
+    <td>Traffic signals, i.e., label 26</td>
+    <td>Traffic signals</td>
+  </tr>
+  <tr>
+    <td>No vehicles (label 15)</td>
+    <td>No vehicles</td>
+  </tr> 
  </center>
  </table>
  <p></p>
