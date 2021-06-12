@@ -670,13 +670,14 @@ The following tables shows the actual labels and predicted labels of the newly d
     <td>Traffic signals</td>
   </tr>
   <tr>
-    <td>No vehicles (label 15)</td>
+    <td>No vehicles</td>
     <td>No vehicles</td>
   </tr> 
  </center>
  </table>
  <p></p>
-It can observed that the model was able to predict nine out of ten images correctly. In particular, the model miss classified the image of Vehicles over 3.5 metric tons prohibited (label 16) with Speed limit (100km/h) (label 7). Therefore, the accuracy of the model on the newly downloaded images is 90%, which is less the test accuarcy. However, it is good to conclued the performance of the model only with 10 images. 
+ 
+It can observed that the model was able to predict nine out of ten images correctly. In particular, the model miss classified the sign of No entry as the sign of Turn left ahead. Therefore, the accuracy of the model on the newly downloaded images is 90%, which is less the test accuarcy. However, it is not good to conclude the performance of the model only with 10 images. 
 
 <p></p>
 Next, I provide the top five softmax probabilities of these images with their corresponding labels predicted by the model. 
