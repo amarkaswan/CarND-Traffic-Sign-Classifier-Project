@@ -515,16 +515,36 @@ I also display the bar charts of the above mentioned top five softmax probabilit
 <table>
  <center>
   <tr>
-    <td>Original New Images Downloaded from the Internat</td>
-    <td>Original New Images Downloaded from the Internat</td>
-    <td>Original New Images Downloaded from the Internat</td>
-    <td>Original New Images Downloaded from the Internat</td>
+    <td>Top Five Softmax Probabilities of Image with Class Label 34</td>
+    <td>Top Five Softmax Probabilities of Image with Class Label 17</td>
+    <td>Top Five Softmax Probabilities of Image with Class Label 13</td>
+    <td>Top Five Softmax Probabilities of Image with Class Label 18</td>
   </tr>
   <tr>
     <td> <img src="./test_images/softmax_label_34.png" width="320" height="160"> </td>
-    <td> <img src="./test_images/softmax_label_34.png" width="320" height="160"> </td>
-    <td> <img src="./test_images/softmax_label_34.png" width="320" height="160"> </td>
-    <td> <img src="./test_images/softmax_label_34.png" width="320" height="160"> </td>
+    <td> <img src="./test_images/softmax_label_17.png" width="320" height="160"> </td>
+    <td> <img src="./test_images/softmax_label_13.png" width="320" height="160"> </td>
+    <td> <img src="./test_images/softmax_label_18.png" width="320" height="160"> </td>
+  </tr>
+    <tr>
+    <td>Top Five Softmax Probabilities of Image with Class Label 12</td>
+    <td>Top Five Softmax Probabilities of Image with Class Label 36</td>
+    <td>Top Five Softmax Probabilities of Image with Class Label 14</td>
+    <td>Top Five Softmax Probabilities of Image with Class Label 16</td>
+  </tr>
+  <tr>
+    <td> <img src="./test_images/softmax_label_12.png" width="320" height="160"> </td>
+    <td> <img src="./test_images/softmax_label_36.png" width="320" height="160"> </td>
+    <td> <img src="./test_images/softmax_label_14.png" width="320" height="160"> </td>
+    <td> <img src="./test_images/softmax_label_16.png" width="320" height="160"> </td>
+  </tr>
+    <tr>
+    <td>Top Five Softmax Probabilities of Image with Class Label 26</td>
+    <td>Top Five Softmax Probabilities of Image with Class Label 15</td>
+  </tr>
+  <tr>
+    <td> <img src="./test_images/softmax_label_26.png" width="320" height="160"> </td>
+    <td> <img src="./test_images/softmax_label_15.png" width="320" height="160"> </td>
   </tr>
  </center>
  </table>
