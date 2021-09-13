@@ -6,7 +6,7 @@
 ## Solution Approach
 The software pipeline that I have developed can be divided into six key steps. 
 
-* First of all, I have loaded the original German Traffic Sing Dataset, which was already divided into training, validation, and testing sets. Besides, I have summarized the original dataset's statistics and observed that the dataset is not balanced. After that, I have generated synthetic data (i.e., images) by augmenting the original data and created a balanced dataset. 
+* First of all, I have loaded the original German Traffic Sign Dataset, which was already divided into training, validation, and testing sets. Besides, I have summarized the original dataset's statistics and observed that the dataset is not balanced. After that, I have generated synthetic data (i.e., images) by augmenting the original data and created a balanced dataset. 
 * Next, I have performed an exploratory visualization of the dataset by plotting an image of each traffic sign with its meaning. 
 * As the third step, I have preprocessed the newly generated dataset, i.e., converted the images into grayscale and then normalized them. 
 * Thereupon,  I have replicated the <a href="https://en.wikipedia.org/wiki/LeNet"><strong>LeNet</strong></a> convolutional neural network architecture to train, validate and test the software pipeline.
