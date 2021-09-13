@@ -872,5 +872,5 @@ In this section, I display the visualization of feature maps of first and second
 
 The feature maps of the first convolution layer mostly react with high activation to the sign's boundary outline. However, I could not understand the feature maps of the second convolutional layer. 
 
-## Possible Impovement
+## Possible Impovement 
 While I was fine-tuning the model, I have understood that different models can misclassify different traffic signs. Hence, a possible improvement over this model can be building an ensemble model comprising various deep neural networks and then making the final prediction based on that ensemble model. 
