@@ -214,10 +214,15 @@ In the following sections, I will briefly explain each of the above-stated steps
     <td>#Testing Images = 12630</td>
   </tr>
   <tr>
-     <td> <img src="./summary/Summary_Original_Dataset.png" width="200" height="150"> </td>
-     <td> <img src="./summary/Summary_Original_Training_Dataset.png" width="200" height="150"> </td>
-     <td> <img src="./summary/Summary_Original_Validation_Dataset.png" width="200" height="150"> </td>
-     <td> <img src="./summary/Summary_Original_Testing_Dataset.png" width="200" height="150"> </td>
+  
+   
+
+
+
+     <td> ![Summary_Original_Dataset](https://user-images.githubusercontent.com/14021388/218214864-8bb56073-34e0-4a3d-b6b4-6fc26dac56d4.png)</td>
+     <td> ![Summary_Original_Testing_Dataset](https://user-images.githubusercontent.com/14021388/218214866-90ec77b1-f696-4ab5-bc37-6e9fd942168d.png) </td>
+     <td> ![Summary_Original_Training_Dataset](https://user-images.githubusercontent.com/14021388/218214872-e3b6035e-d764-4936-b5e8-7ca8a0c1a310.png) </td>
+     <td> ![Summary_Original_Validation_Dataset](https://user-images.githubusercontent.com/14021388/218214873-d462e2b5-62b4-4f25-b366-0142c83f253d.png) </td>
   </tr>
  </center>
  </table>
