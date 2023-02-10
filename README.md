@@ -204,6 +204,7 @@ In the following sections, I will briefly explain each of the above-stated steps
 * Maximum number of images for a traffic sign  in the original dataset = 3000
 * Shape of an image in the original dataset = (32, 32, 3)
 * Number of classes (i.e., types of traffic signs) in the original dataset = 43
+ ![ScreenShot](/summary/Summary_Original_Dataset.png)
 <p></p>
 <table>
  <center>
