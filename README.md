@@ -268,7 +268,7 @@ In this step, I have randomly picked one image of each traffic sign from new dat
     <td>Speed limit (80km/h)</td>
   </tr>
   <tr>
-     <td> <img src="/exploratory_images/label_0.jpg" width="110" height="110"> </td>
+     <td> <img src="./exploratory_images/label_0.jpg" width="110" height="110"> </td>
      <td> <img src="./exploratory_images/label_1.jpg" width="110" height="110"> </td>
      <td> <img src="./exploratory_images/label_2.jpg" width="110" height="110"> </td>
      <td> <img src="./exploratory_images/label_3.jpg" width="110" height="110"> </td>
