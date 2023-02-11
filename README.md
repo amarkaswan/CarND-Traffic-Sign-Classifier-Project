@@ -213,7 +213,7 @@ In the following sections, I will briefly explain each of the above-stated steps
     <td>#Validtion Images = 4410</td>
     <td>#Testing Images = 12630</td>
   </tr>
-  <tr>  <td> ![Summary_Original_Training_Dataset](https://raw.githubusercontent.com/amarkaswan/CarND-Kidnapped-Vehicle-Project/master/summary/Summary_Original_Training_Dataset.png) </td>
+  <tr>  <td> <img src="./summary/Summary_Original_Dataset.png" width="200" height="150">  </td>
      <td> <img src="./summary/Summary_Original_Training_Dataset.png" width="200" height="150"> </td>
      <td> <img src="./summary/Summary_Original_Validation_Dataset.png" width="200" height="150"> </td>
      <td> <img src="./summary/Summary_Original_Testing_Dataset.png" width="200" height="150"> </td>
